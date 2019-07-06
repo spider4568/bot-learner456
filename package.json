@@ -1,0 +1,13 @@
+ {
+ "name":test bot
+ "version":1.0.0"
+ "description": " This is smpale discord bot"
+ "main": "test bot-js
+ "author" spider4568",
+ "scripts":   {
+       "starts": "node simple-discord.js
+       }
+         "dependencies" {
+         "discord.js* : 11.2.1
+         }
+         }
